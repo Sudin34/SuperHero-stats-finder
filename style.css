@@ -45,11 +45,13 @@ button {
 	border-radius: 10px;
 	border: none;
 	transition: 0.5s;
+
 }
 button:hover {
 	background-color: #0f4050;
 	padding: 15px;
 	transition: 0.5s;
+	cursor:pointer;
 }
 
 .heroImage {
